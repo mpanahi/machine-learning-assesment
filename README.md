@@ -16,7 +16,7 @@ Your solution should consider the following:
 * The same artists can have different spellings, think Pink vs P!NK. 
 * The same name can refer to multiple things, think Arsenal (football club) vs Arsenal (band)
 
-#### Bonus question
+#### Bonus questions
 
 * What additional information can you extract from the event titles? What additional business value do you think this information can provide? 
 * Can you differentiate between your confidence levels for when different artists are extracted?
