@@ -36,8 +36,28 @@ Your prototype proved to be successful and you want to push it forward. How woul
 
 How would you approach other teams to put your solution in production, and make sure they can consume your predictions successfully? For example, the front-end and back-end team who will need to integrate with your solution? Can you think of other technical teams that you will need to align with?
 
-Finally, will you need to collect additional data for your future iterations on your solution?   
+Finally, will you need to collect additional data for your future iterations on your solution?
 
+## Project Structure
+```
+MACHINE-LEARNING-ASSESMENT
+│   README.md
+│   requirements.txt    
+│   .gitignore
+|
+└───data
+│   │   artists.txt
+│   │   event_titles.txt
+│
+└───src
+│   
+└───test
+```
 
+In this repo you'll find three directories and three files. Inside the `data` directory, you'll find two datasets. Any other dataset that you consider necesary for the project, should be added in that folder.
+In the `src` directory you should put all your service & model related code. Use the `test` directory to add all the files you need containing test for your code. Please, make sure to add all the dependencies needed to run your code in the `requirements.txt` file.
 
-Best of luck to you
+## Handing in the assessment
+When you're finished developing the application and did all the git commits, you can zip the entire folder (don't forget the .git), and send it to us in reply of the mail you got with this assessment. If there are issues sending the zip file, please use a service like https://wetransfer.com to upload the zip file there and send us a link to download the files.
+
+Best of luck to you!
