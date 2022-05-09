@@ -4,7 +4,7 @@ Every month, there are thousands of events active on TicketSwap websites. These 
 
 ## Part 1
 
-Inside the data directory there are several files:
+Inside the data directory there are two files:
 * A file containing a list of event titles, event_titles.txt
 * A list of artists from our database, artists.txt. For the sake of this assignment, we do not differentiate between artists, stand up comedians, football clubs, or festival names. They all are listed together in the same artists.txt file.
 
