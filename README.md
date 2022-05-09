@@ -12,14 +12,14 @@ We would like you to build a solution, given an event title, it would return the
 
 Your solution should consider the following:
 
-Not all artists are listed in our database. Think of ways to extract ones not in our database yet. 
-The same artists can have different spellings, think Pink vs P!NK. 
-The same name can refer to multiple things, think Arsenal (football club) vs Arsenal (band)
+* Not all artists are listed in our database. Think of ways to extract ones not in our database yet. 
+* The same artists can have different spellings, think Pink vs P!NK. 
+* The same name can refer to multiple things, think Arsenal (football club) vs Arsenal (band)
 
-### Bonus question
+#### Bonus question
 
-What additional information can you extract from the event titles? What additional business value do you think this information can provide? 
-Can you differentiate between your confidence levels for when different artists are extracted?
+* What additional information can you extract from the event titles? What additional business value do you think this information can provide? 
+* Can you differentiate between your confidence levels for when different artists are extracted?
 
 ## Part 2
 
@@ -31,8 +31,8 @@ Please build a very simple prototype for making your predictions available on de
 
 Your prototype proved to be successful and you want to push it forward. How would you communicate with the following teams and what evidences will you try to provide to convince them about your solution:
 
-Content team. This is the team that currently adds line-up to events manually, and this project will help them automate this part of their job
-Marketing team. This is the team that needs to have line-ups for events to be able to promote the events with popular artists.
+* Content team. This is the team that currently adds line-up to events manually, and this project will help them automate this part of their job
+* Marketing team. This is the team that needs to have line-ups for events to be able to promote the events with popular artists.
 
 How would you approach other teams to put your solution in production, and make sure they can consume your predictions successfully? For example, the front-end and back-end team who will need to integrate with your solution? Can you think of other technical teams that you will need to align with?
 
