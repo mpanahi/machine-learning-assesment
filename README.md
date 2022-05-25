@@ -58,7 +58,7 @@ In this repo you'll find three directories and three files. Inside the `data` di
 In the `src` directory you should put all your service & model related code. Use the `test` directory to add all the files you need containing test for your code. Please, make sure to add all the dependencies needed to run your code in the `requirements.txt` file.
 
 ## Handing in the assessment
-Remember, it's important that you clone this repo before starting and do as many commits as needed, as clear as possible. You will not have push permissions to this repo, so you will have to upload it as private repository to your github account. When you're finished developing the application and did all the git commits, you can zip the entire folder (don't forget the .git), and send it to us in reply of the mail you got with this assessment. If there are issues sending the zip file, please use a service like https://wetransfer.com to upload the zip file there and send us a link to download the files.
+Remember, it's important that you clone this repo before starting and do as many commits as needed, as clear as possible. You will not have push permissions to this repo, so you will have to do it in your own git repository (either local or using your own github account). When you're finished developing the application and did all the git commits, you can zip the entire folder (don't forget the .git), and send it to us in reply of the mail you got with this assessment. If there are issues sending the zip file, please use a service like https://wetransfer.com to upload the zip file there and send us a link to download the files.
 
 Please, do not share the results of this assignment with anyone.
 
