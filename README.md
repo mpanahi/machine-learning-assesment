@@ -25,7 +25,7 @@ Your solution should consider the following:
 
 Once your solution is ready, other parts of our product will need to communicate with it. What is the best way to make your predictions available for the rest of the product to consume? Will your solution differ in case the predictions are needed in real-time vs offline batch jobs? What are the different deployment options you can think of?  
 
-Please build a very simple prototype for making your predictions available on demand to our different microservices?
+Please build a very simple prototype for making your predictions available on demand to our different microservices.
 
 ## Part 3
 
