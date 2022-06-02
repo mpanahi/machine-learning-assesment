@@ -4,8 +4,8 @@ from nltk.tokenize import word_tokenize
 import os
 
 
-st = StanfordNERTagger('english.all.3class.distsim.crf.ser.gz',
-                       'stanford-ner.jar',
+st = StanfordNERTagger(os.pardir+'/src/english.all.3class.distsim.crf.ser.gz',
+                       os.pardir+'/src/'stanford-ner.jar',
                        encoding='utf-8')
 
 
