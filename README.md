@@ -9,16 +9,10 @@ Verify the python version installed. This project was built using python 3.7
 python --version
 ```
 
-Create a virtualenv
+download the project via git clone and run the following:
 ```
-pyenv virtualenv 3.7.5 app
+pip install -r requirements.txt
 ```
-
-Activate the virtualenv
-```
-pyenv activate app
-```
-
 Install project dependencies requirement.txt
 ```
 pip install -r requirements.txt
