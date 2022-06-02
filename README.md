@@ -12,7 +12,7 @@ python --version
 download the project via git clone and run the following:
 ```
 pip install -r requirements.txt
-```
+
 
 ```
 
