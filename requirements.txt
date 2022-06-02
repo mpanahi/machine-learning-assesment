@@ -1,0 +1,5 @@
+fastapi==0.78.0
+nltk==3.7
+numpy==1.21.6
+uvicorn==0.17.6
+requests==2.27.1
