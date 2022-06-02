@@ -13,10 +13,8 @@ download the project via git clone and run the following:
 ```
 pip install -r requirements.txt
 ```
-Install project dependencies requirement.txt
-```
-pip install -r requirements.txt
+
 ```
 
 
-```
+
