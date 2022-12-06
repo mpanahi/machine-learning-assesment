@@ -29,9 +29,9 @@ pip3 install -r requirements.txt
 ## Usage
 
 To run the app localy, go to the root and then src directory and run:
-
+```
 uvicorn simple_api:app --reload
-
+```
 you can visit http://localhost:8000/docs to see your API docs.
 
 
